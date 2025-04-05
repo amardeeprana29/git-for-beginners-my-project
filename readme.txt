@@ -1,3 +1,3 @@
 Welcome to Myproject !
 
-Author: Amardeep
+Author: Amardeep Rana
