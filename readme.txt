@@ -1,4 +1,3 @@
 Welcome to Myproject !
 
-Author: Amardeep Kumar Rana
-Twitter : @amardeep29
+Author: Amardeep Koomar Rana
