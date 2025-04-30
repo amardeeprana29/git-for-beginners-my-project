@@ -1,4 +1,4 @@
 Welcome to Myproject !
 
-Author: Amardeep Kumar
+Author: Amardeep Kumar Rana
 Twitter : @amardeep29
