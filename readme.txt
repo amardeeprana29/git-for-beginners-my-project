@@ -1,3 +1,3 @@
 Welcome to Myproject !
 
-Author: Amardeep Koomar Rana
+Author: Amardeep  Rana
